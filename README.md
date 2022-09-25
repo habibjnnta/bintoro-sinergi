@@ -8,4 +8,5 @@ Langkah menjalankan :
 untuk BE saya menggunakan Laravel versi 9
 Langkah menjalankan :
 - update dulu untuk mendapatkan vendor
+- migrate datanya, dan category blog sudah ada di seed
 - php artisan serve
